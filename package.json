@@ -1,7 +1,7 @@
 {
   "name": "prettier-plugin-tidy-json",
   "version": "1.0.0",
-  "repository": "https://github.com/unional/prettier-plugin-tidy-json.git",
+  "repository": "https://github.com/repobuddy/prettier-plugin-tidy-json.git",
   "license": "MIT",
   "author": "unional <homawong@gmail.com>",
   "sideEffects": false,
